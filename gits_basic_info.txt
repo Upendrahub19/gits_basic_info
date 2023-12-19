@@ -1,0 +1,11 @@
+gits intro
+------------------
+in git we are having 4 types of section i.e 4)working directory 3)staging area 2)local repository and 4)remote repository
+
+->cmd to use:- {git add} [to send files one by one from working directory to staging area]
+
+->cmd to use:- {git commit}[to send files from staging area to local repository]
+               to give any msg write a cmd like 
+               {  git commit -m ""} inside the double quotes u can write a msg.
+
+->cmd to use:- {git push} [to send files from local repository to remote repository
